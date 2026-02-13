@@ -1,0 +1,20 @@
+ZEGA DOT ENGINE LICENSE
+Version 1.0 (2026)
+
+Copyright (c) 2026 ZEGA Corporation. All Rights Reserved.
+
+1. PROHIBITION OF REVERSE ENGINEERING
+Users are strictly prohibited from decompiling, disassembling, or reverse-engineering any binary files associated with the ZEGA Dot Engine, including but not limited to:
+- dot.exe
+- zega_core.dll
+- libzega_core.a
+
+2. CUSTOM COMPILERS AND DERIVATIVES
+Users are permitted to create new compilers or modified versions of the execution environment ("Modified Work") under the following conditions:
+- A file named 'dot.md' MUST be included in the root directory of the Modified Work.
+- The 'dot.md' file must explicitly state that the software is NOT the original or official ZEGA compiler.
+- The 'dot.md' file must state that the software has been modded/tweaked from the original source.
+- The 'dot.md' file must include the phrase: "This project used Dot By Zega" with prominent attribution to ZEGA Corporation.
+
+3. LIMITATION OF LIABILITY
+The software is provided "as is", without warranty of any kind, express or implied. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability.
