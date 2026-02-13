@@ -1,0 +1,43 @@
+{
+  "system_name": "ZEGA Dot Engine",
+  "version": "1.0",
+  "branding": "#58f01b",
+  "tiers": {
+    "keywords<1>": {
+      "color": "#58f01b",
+      "commands": ["print", "set"]
+    },
+    "keywords<2>": {
+      "color": "#1bc2f0",
+      "commands": ["input", "wait"]
+    },
+    "keywords<3>": {
+      "color": "#b41bf0",
+      "commands": ["add", "sub", "multiply"]
+    },
+    "keywords<4>": {
+      "color": "#f0a11b",
+      "commands": ["if", "else", "then"]
+    },
+    "keywords<5>": {
+      "color": "#f01b1b",
+      "commands": ["open", "write", "read"]
+    },
+    "keywords<6>": {
+      "color": "#1bf0a1",
+      "commands": ["loop", "stop"]
+    },
+    "keywords<7>": {
+      "color": "#f01bad",
+      "commands": ["color", "clear"]
+    },
+    "keywords<8>": {
+      "color": "#8af01b",
+      "commands": ["save", "load"]
+    },
+    "keywords<9>": {
+      "color": "#f0d31b",
+      "commands": ["import", "system"]
+    }
+  }
+}
